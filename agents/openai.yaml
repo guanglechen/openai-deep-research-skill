@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenAI Deep Research"
+  short_description: "Automate deep research workflows with OpenAI APIs"
+  default_prompt: "Use $openai-deep-research-skill to run evidence-backed deep research and produce a cited report."
